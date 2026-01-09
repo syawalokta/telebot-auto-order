@@ -1,0 +1,30 @@
+{
+  "1": {
+    "id": 1,
+    "productId": 1,
+    "nama": "basic",
+    "harga": 2000,
+    "stok": []
+  },
+  "2": {
+    "id": 2,
+    "productId": 1,
+    "nama": "premium",
+    "harga": 2000,
+    "stok": []
+  },
+  "3": {
+    "id": 3,
+    "productId": 1,
+    "nama": "well",
+    "harga": 3000,
+    "stok": []
+  },
+  "4": {
+    "id": 4,
+    "productId": 1,
+    "nama": "testing",
+    "harga": 100,
+    "stok": []
+  }
+}

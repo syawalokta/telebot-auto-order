@@ -1,0 +1,33 @@
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+file_structure.fs
+
+# Environment & Config
+.env
+.env.*
+config.js
+config.local.js
+database.json
+package-lock.json
+# Build / Runtime
+dist/
+build/
+.tmp/
+.cache/
+
+# Logs
+logs/
+*.log
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+coverage/
+
+*.bak
+*.swp
